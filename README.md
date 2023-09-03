@@ -2,12 +2,8 @@
 Using HTML, CSS, Bootstrap 5, Javascript, React, PHP, MySQL
 
 
-PG Life is a Full-Stack Web Application. This is a project that I was assigned to make during my
-Internshala Full Stack Web Development Internship Training. I got the guidance, and following that
-I made this web application with my own undertsnading and knowledge. It is customized according to
-what I thought would be better functionalities in this app, from the user perspective.
-
-
+PG Life" is a comprehensive Full-Stack Web Application that I developed as part of my Internshala Full Stack Web Development Internship Training. Throughout the project, I received guidance and support, but the application reflects my own creativity, understanding, and knowledge.
+This web application is tailored to provide enhanced functionalities and features designed with the user's perspective in mind. I strived to create a unique and user-friendly experience that distinguishes "PG Life" from other web applications.
 
 This web app has the following functionalities:-
 
